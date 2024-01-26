@@ -7,7 +7,7 @@
 # 👩🏽‍💻 About Me:
 🚀 I’m currently enrolled in the Computer Engineering degree at the Instituto Tecnológico de Costa Rica, with 2 years of coursework.<br>
 🤝 I’m looking to collaborate on future projects related to Web Development, Machine Learning, and Mixed Reality.<br>
-🌱 I’m currently learning about deep learning topics. <br>
+🌱 I’m currently learning about Deep Learning topics. <br>
 📧 How to reach me: [kurbinacr@gmail.com](mailto:kurbinacr@gmail.com)<br>
 ⚡ Fun fact: Beyond the tech world, you'll find me engrossed in fantasy and anime books. 
 <br>
