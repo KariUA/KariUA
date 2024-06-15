@@ -77,8 +77,6 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariUA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KariUA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
 </div>
 
 ## ✍️ Phrase of the Day
