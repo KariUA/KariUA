@@ -79,8 +79,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariUA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
-## ✍️ Phrase of the Day
-<div id="header" align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
