@@ -2,11 +2,14 @@
     <img src="https://i.pinimg.com/originals/e4/98/37/e49837ab461ea2c17f11ab430b9c8812.gif" width="400" />
     <h1 align="center">Hello world👋, I'm Kari Urbina</h1>
     <h3 align="center"> ✨A future Computer Engineering from Costa Rica ✨</h3>
+    <p align="center">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=KariUA.KariUA&title=%20Profile%20Views" alt="profile views" />
+    </p>
 </div>
 
 # 👩🏽‍💻 About Me:
 🚀 Final-year Computer Engineering Student | Instituto Tecnológico de Costa Rica.<br>
-🤝 I’m looking to collaborate on future projects related toWeb Development, Quality Assurance, and Artificial Intelligence<br>
+🤝 I’m looking to collaborate on future projects related to Web Development, Quality Assurance, and Artificial Intelligence<br>
 🌱 I’m currently investigating automated unit testing with LLM-based tools.<br>
 📧 How to reach me: [kurbinacr@gmail.com](mailto:kurbinacr@gmail.com)<br>
 ⚡ Fun fact: Beyond the tech world, you'll find me engrossed in fantasy and anime books. 
@@ -44,7 +47,7 @@
   
  <!-- sqlite-->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/>
   </a>
   
 <!-- mssql server-->
@@ -99,6 +102,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
+<!-- tailwind -->
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
+<!-- next.js -->
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next.js" width="40" height="40"/>
+</a>
+
+  <!-- Cypress -->
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="cypress" width="40" height="40"/>
+  </a>
+
 </p>
 
 
@@ -106,5 +124,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariUA&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
-
-
